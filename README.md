@@ -8,4 +8,3 @@ This is a test project
 more test
 more test
 line ab
-line c
